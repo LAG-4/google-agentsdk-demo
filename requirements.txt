@@ -3,4 +3,4 @@ httpx
 streamlit
 openai
 python-dotenv
-agents-sdk
+openai-agents-sdk
