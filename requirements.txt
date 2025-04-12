@@ -1,1 +1,6 @@
 flask==2.3.3
+httpx
+streamlit
+openai
+python-dotenv
+agents-sdk

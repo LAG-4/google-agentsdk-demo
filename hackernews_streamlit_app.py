@@ -104,7 +104,7 @@ else:
     # Create the agent
     agent = Agent(
         name="Hacker News Report Assistant", 
-        instructions="You only respond about latest news on Hacker News. When asked about news, use the get_top_hackernews_stories function.", 
+        instructions="You are a helpful news assistant who will answer users questions and provide the latest news on Hacker News.", 
         tools=[get_top_hackernews_stories]
     )
 
